@@ -4,7 +4,7 @@ Atividade acadêmica — Unidade III.
 
 ## Objetivo
 
-Demonstrar como dois tipos de prompt podem apoiar a geração de **casos de teste de integração**, sem implementar uma API real.
+Demonstrar como dois tipos de prompt podem apoiar a geração de **casos de teste de integração**.
 
 ## Cenário hipotético
 
@@ -24,7 +24,3 @@ O comportamento em situações de erro e o uso de idempotência foram definidos 
 - [`prompts.md`](prompts.md) — dois tipos de prompt, versões iniciais e ajustes.
 - [`casos-de-teste.md`](casos-de-teste.md) — 12 casos de teste de integração gerados como proposta.
 - [`analise.md`](analise.md) — comparação dos resultados e reflexão sobre o uso da GenAI.
-
-## Situação dos casos
-
-Os casos foram **propostos com auxílio de uma LLM (ChatGPT)**. Não há implementação nem execução de testes automatizados. Os resultados esperados representam hipóteses de contrato de API.
